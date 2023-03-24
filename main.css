@@ -1,0 +1,154 @@
+.main{
+    background-color: red;
+    color: white;
+    font-family: "Comic Sans MS";
+    font-size: 60px;
+    text-align: center;
+
+}
+
+
+
+.void{
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    text-align: center;
+}
+.font{
+    font-family: "Comic Sans MS";
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+.hot{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: "Comic Sans MS";
+}
+.tue{
+    font-family: "Comic Sans MS";
+    font-size: 50px;
+    text-align: center;
+}
+
+.aww{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    background-color: black;
+}
+
+.but{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    width: 500px;
+    transition: background-color 2s,
+    color 2s;
+}
+.but:hover{
+    background-color: white;
+    color: red;
+}
+
+.but:active{
+    opacity: 2;
+}
+.urus{
+    background-color: black;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    color: white;
+}
+.the{
+    align-items: center;
+
+}
+.now{
+    background-color: white;
+    color: black;
+    height: 100px;
+    transition: background-color 2s,
+    color 2s;
+}
+
+.tbh{
+    background-color: black;
+    color: white;
+    font-family: "Comic Sans MS";
+    text-align: center;
+
+
+
+}
+.then{
+    background-color: white;
+    color: black;
+    height: 100px;
+    transition: background-color 2s,
+    color 2s;
+}
+
+.now:hover{
+    background-color: red;
+    color: white;
+
+
+}
+
+.then:hover{
+    background-color: red;
+    color: white;
+}
+.then:active{
+    opacity: 1;
+}
+.now:active{
+    opacity: 1;
+}
+
+
+
+
+.more{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
+.lo{
+    background-color: red;
+    color: black;
+    transition: background-color 2s,
+    color 2s;
+}
+.lo:hover{
+    background-color: black;
+    color: red;
+}
+.lo:active{
+     opacity: 2;
+}
+
+.form-text{
+    color: white;
+    background-color: black;
+    font-family: "Comic Sans MS";
+    color: crimson;
+}
+
+.on{
+    background-color: black;
+    color: white;
+    font-family: "Comic Sans MS";
+
+}
+.hm{
+    font-size: 30px;
+}
+
+
